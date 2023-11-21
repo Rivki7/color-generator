@@ -5,7 +5,7 @@ Welcome to the Color Shades Generator project! This web application allows you t
 
 ## Live Demo
 
-You can try out the Color Shades Generator by visiting the [live demo](https://your-live-demo-url.com).
+You can try out the Color Shades Generator by visiting the [live demo](https://color-generator-rivki.netlify.app/).
 
 ## Features
 
@@ -21,4 +21,4 @@ You can try out the Color Shades Generator by visiting the [live demo](https://y
 
 ## Usage
 
-To use the Color Shades Generator, simply visit the [live demo](https://your-live-demo-url.com), enter a color of your choice, and explore the generated shades. Copy the hex codes to use them in your projects.
+To use the Color Shades Generator, simply visit the [live demo](https://color-generator-rivki.netlify.app/), enter a color of your choice, and explore the generated shades. Copy the hex codes to use them in your projects.
