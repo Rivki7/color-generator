@@ -13,7 +13,7 @@ const Form = ({ addColor }) => {
       <form className='color-form' onSubmit={handleSubmit}>
         <input
           type='color'
-          value={color || '#26ba3f'}
+          value={color || '#ba2693'}
           onChange={(e) => {
             setColor(e.target.value);
           }}
@@ -23,7 +23,7 @@ const Form = ({ addColor }) => {
           type='text'
           name='text'
           id='text'
-          placeholder='#26ba3f'
+          placeholder='#ba2693'
           value={color}
           onChange={(e) => {
             setColor(e.target.value);
