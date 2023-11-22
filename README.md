@@ -9,7 +9,7 @@ You can try out the Color Shades Generator by visiting the [live demo](https://c
 
 ## Features
 
-- **Color Input:** Enter a color of your choice using various formats using hex format or the color picker.
+- **Color Input:** Enter a color of your choice using hex format or the color picker.
 - **Shade Generation:** Instantly generate 20 color shades, with 10 darker shades and 10 brighter shades.
 - **Copy to Clipboard:** Easily copy the hex code of any shade to the clipboard with a single click.
 
